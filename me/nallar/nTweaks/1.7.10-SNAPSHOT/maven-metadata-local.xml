@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.nallar</groupId>
+  <artifactId>nTweaks</artifactId>
+  <version>1.7.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160106003148</lastUpdated>
+  </versioning>
+</metadata>

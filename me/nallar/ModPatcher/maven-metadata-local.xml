@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.nallar</groupId>
+  <artifactId>ModPatcher</artifactId>
+  <versioning>
+    <versions>
+      <version>1.8.9-SNAPSHOT</version>
+      <version>1.7.10-SNAPSHOT</version>
+      <version>1.10-SNAPSHOT</version>
+      <version>1.10.2-SNAPSHOT</version>
+      <version>1.11-SNAPSHOT</version>
+      <version>1.11.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170119190653</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.nallar</groupId>
+  <artifactId>JavaTransformer</artifactId>
+  <version>1.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160212205514</lastUpdated>
+  </versioning>
+</metadata>

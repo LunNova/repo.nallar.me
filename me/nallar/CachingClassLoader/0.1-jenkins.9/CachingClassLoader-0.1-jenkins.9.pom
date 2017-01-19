@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>me.nallar</groupId>
+  <artifactId>CachingClassLoader</artifactId>
+  <version>0.1-jenkins.9</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.minecraft</groupId>
+      <artifactId>launchwrapper</artifactId>
+      <version>1.12</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.12</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
